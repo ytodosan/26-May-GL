@@ -8,6 +8,7 @@
       "Name": "BaseLookup"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Drive types"
+    "Caption": "Drive types",
+    "DependsOn": []
   }
 }
