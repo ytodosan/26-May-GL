@@ -3,11 +3,21 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yachts form page" />
+			<Item Name="LocalizableStrings.Button_33qig8q_caption.Value" Value="Button" />
 			<Item Name="LocalizableStrings.Button_PushMe_caption.Value" Value="Push me" />
 			<Item Name="LocalizableStrings.CrewCannotBeLess.Value" Value="A vessel should be manned by at least 2 sailors" />
 			<Item Name="LocalizableStrings.EmailInput_CaptainEmail_caption.Value" Value="Email address" />
 			<Item Name="LocalizableStrings.EmailInput_CaptainEmail_label.Value" Value="Captain's email" />
+			<Item Name="LocalizableStrings.ExpansionPanel_7imc4ra_title.Value" Value="Yacht rentals" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_d5gyi7e_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_wepqf9f_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_wk2oh49_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_lhxzrkh_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_i3j695k_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_91qo2ix_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.IndicatorWidget_ofin42c_title.Value" Value="New" />
+			<Item Name="LocalizableStrings.MenuItem_41z6s3g_caption.Value" Value="Avg price" />
+			<Item Name="LocalizableStrings.MultiSelect_Categories_label.Value" Value="Categories" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="The very minimum for a Yacht price should be 50 USD at least" />
 			<Item Name="LocalizableStrings.addRecord_39qe01y_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_7teq8yf_caption.Value" Value="Add new" />
