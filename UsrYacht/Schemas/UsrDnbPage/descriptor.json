@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ac679e21-6175-48b4-9a95-00f3e4231b72",
+    "Name": "UsrDnbPage",
+    "ModifiedOnUtc": "\/Date(1780671901000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Dnb Page"
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Dnb Page" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Enter country and company" />
+			<Item Name="Parameters.5976e75e-d2c2-42cd-9ae2-da0479e149e0.Caption" Value="Company name" />
+			<Item Name="Parameters.c48bac4b-846f-1e26-dcfa-12f183c1c1b6.Caption" Value="Country code (2 letters)" />
+		</Items>
+	</Group>
+</Resources>

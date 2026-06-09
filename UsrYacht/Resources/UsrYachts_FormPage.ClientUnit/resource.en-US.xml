@@ -19,6 +19,7 @@
 			<Item Name="LocalizableStrings.MenuItem_41z6s3g_caption.Value" Value="Avg price" />
 			<Item Name="LocalizableStrings.MultiSelect_Categories_label.Value" Value="Categories" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="The very minimum for a Yacht price should be 50 USD at least" />
+			<Item Name="LocalizableStrings.YachtService_caption.Value" Value="Yacht service" />
 			<Item Name="LocalizableStrings.addRecord_39qe01y_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_7teq8yf_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_efe4kp7_caption.Value" Value="Add new" />

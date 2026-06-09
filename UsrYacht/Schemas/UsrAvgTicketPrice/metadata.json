@@ -753,6 +753,42 @@
             "GS2": "false",
             "GS5": "ac2ef13c-30dd-4023-9c04-58f580743b48"
           }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "a862e3bb-73c2-4093-b5f3-aaa9d0120319",
+          "A2": "PreconfiguredPageUserTask1",
+          "A3": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+          "A4": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+          "GT2": "[Element:{a505ad9f-3069-443b-9a6a-e63bff4ec447}].[Parameter:{23b58e37-6f67-417e-bc22-4d400602b65f}]",
+          "GT3": "23b58e37-6f67-417e-bc22-4d400602b65f",
+          "GT5": "fb0d6fd1-17a1-4a04-a155-a4b643c6d048",
+          "GT4": "ac2ef13c-30dd-4023-9c04-58f580743b48",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "6921556a-2afe-4d7a-84fe-6a268bfa7100",
+          "A2": "PreconfiguredPageUserTask1",
+          "A3": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+          "A4": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+          "GT2": "[Element:{a505ad9f-3069-443b-9a6a-e63bff4ec447}].[Parameter:{2005853b-7bf9-45cd-a021-f5eb3be1bce7}]",
+          "GT3": "2005853b-7bf9-45cd-a021-f5eb3be1bce7",
+          "GT5": "e4eae837-3880-4fb6-b3d9-1e07e1412230",
+          "GT4": "ac2ef13c-30dd-4023-9c04-58f580743b48",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "78ef6c70-800a-41d0-9e1f-0454436f9351",
+          "A2": "PreconfiguredPageUserTask1",
+          "A3": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+          "A4": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+          "GT2": "[Element:{a505ad9f-3069-443b-9a6a-e63bff4ec447}].[Parameter:{333ef25a-d056-48d4-9cc6-5a33f41ec6af}]",
+          "GT3": "333ef25a-d056-48d4-9cc6-5a33f41ec6af",
+          "GT5": "bfaa9c7f-c368-4402-8310-a17660faf148",
+          "GT4": "ac2ef13c-30dd-4023-9c04-58f580743b48",
+          "GT1": {}
         }
       ],
       "BK37": {
@@ -1161,6 +1197,7 @@
                 "GS2": "55d52abe-03f0-44d7-ad68-072bbd35692e",
                 "GS5": "09b51f63-538a-4ef3-ac33-637588fd8cf2"
               },
+              "L9": "2e155463-3ff1-4ccf-8584-4ec8d7233111",
               "L11": false
             }
           ],
@@ -1598,6 +1635,42 @@
               "L8": {},
               "L9": "84f44b9a-4bc3-4cbf-a1a8-cec02c1c029c",
               "L16": "SysAdminUnit"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "23b58e37-6f67-417e-bc22-4d400602b65f",
+              "A2": "Account",
+              "A3": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+              "A4": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+              "IL2": "a505ad9f-3069-443b-9a6a-e63bff4ec447",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e",
+              "L17": "ActivityConnection"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "2005853b-7bf9-45cd-a021-f5eb3be1bce7",
+              "A2": "OmniChat",
+              "A3": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+              "A4": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+              "IL2": "a505ad9f-3069-443b-9a6a-e63bff4ec447",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "af1f685c-315b-4b44-a957-c5094417a57a",
+              "L17": "ActivityConnection"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "333ef25a-d056-48d4-9cc6-5a33f41ec6af",
+              "A2": "Contact",
+              "A3": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+              "A4": "09b51f63-538a-4ef3-ac33-637588fd8cf2",
+              "IL2": "a505ad9f-3069-443b-9a6a-e63bff4ec447",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+              "L17": "ActivityConnection"
             }
           ],
           "CL2": "FFFFFFFF",

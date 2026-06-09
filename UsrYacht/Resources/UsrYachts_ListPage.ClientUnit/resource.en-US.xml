@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yachts list page" />
+			<Item Name="LocalizableStrings.PDS_UsrYachtRentalUsrParentYacht_Id_lkfedxz.Value" Value="Number of rentals" />
 		</Items>
 	</Group>
 </Resources>

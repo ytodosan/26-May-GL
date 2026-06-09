@@ -56,6 +56,12 @@ define("UsrYachts_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 							"code": "PDS_UsrCaptain",
 							"caption": "#ResourceString(PDS_UsrCaptain)#",
 							"dataValueType": 10
+						},
+						{
+							"id": "e09d2d79-8263-f7de-efc4-5cbaaeb13d71",
+							"code": "PDS_UsrYachtRentalUsrParentYacht_Id_lkfedxz",
+							"caption": "#ResourceString(PDS_UsrYachtRentalUsrParentYacht_Id_lkfedxz)#",
+							"dataValueType": 4
 						}
 					],
 					"features": {
@@ -133,6 +139,11 @@ define("UsrYachts_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						"modelConfig": {
 							"path": "PDS.UsrCaptain"
 						}
+					},
+					"PDS_UsrYachtRentalUsrParentYacht_Id_lkfedxz": {
+						"modelConfig": {
+							"path": "PDS.UsrYachtRentalUsrParentYacht_Id_lkfedxz"
+						}
 					}
 				}
 			},
@@ -191,6 +202,13 @@ define("UsrYachts_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						},
 						"UsrCaptain": {
 							"path": "UsrCaptain"
+						},
+						"UsrYachtRentalUsrParentYacht_Id_lkfedxz": {
+							"type": "Aggregation",
+							"path": "[UsrYachtRental:UsrParentYacht].Id",
+							"aggregationConfig": {
+								"aggregationFunction": "Count"
+							}
 						}
 					}
 				}
